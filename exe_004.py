@@ -1,0 +1,7 @@
+A = input('Testar:')
+print('O Tipo de Valor É:', type(A))
+print('É Numerica??', A.isnumeric())
+print('É Alphanumerica',A.isalnum())
+print('Tem Espaços??', A.isspace())
+print('É uma Alfabeto??', A.isalpha())
+print('Maiuscula', A.isupper())
