@@ -7,3 +7,17 @@
 
 
 
+PY/
+venv/Lib/collections/
+venv/Lib/distutils/
+venv/Lib/importlib/
+venv/Lib/site-packages/__pycache__/
+venv/Lib/site-packages/pip-9.0.1.dist-info/
+venv/Lib/site-packages/pip/
+venv/Lib/site-packages/pkg_resources/
+venv/Lib/site-packages/setuptools-38.2.5.dist-info/
+venv/Lib/site-packages/setuptools/
+venv/Lib/site-packages/wheel-0.30.0.dist-info/
+venv/Lib/site-packages/wheel/
+venv/Scripts/
+venv/tcl/
